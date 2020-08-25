@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">418217219257-mesh9re3uq5mlo9gcgh1c24b1r1rchgb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://propertyrental-7b64d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">418217219257</string>
+    <string name="google_api_key" translatable="false">AIzaSyAzEa4KLpkHXTonk3K2lMZGiuUis1MYGtI</string>
+    <string name="google_app_id" translatable="false">1:418217219257:android:b46f0261306894a77cf768</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzEa4KLpkHXTonk3K2lMZGiuUis1MYGtI</string>
+    <string name="google_storage_bucket" translatable="false">propertyrental-7b64d.appspot.com</string>
+    <string name="project_id" translatable="false">propertyrental-7b64d</string>
+</resources>
